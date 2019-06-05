@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+.red {
+	background: red
+}
+
+.blue {
+	background: blue
+}
+
+.weight-500{
+	font-weight: 500
+}
+
+.hid {
+	overflow: hidden;
+}
+
+.b-21{
+	border-radius: 21px;
+}
+
+button{
+	border-radius: 100px
+	!important;
+}
+
+.post-input {
+	height: 50px;
+}
+
+.bg-blue {
+	background: #C8F4F4 !important;
+}
+
+.picture-file {
+	background-image: url('images/picture.png');
+}
